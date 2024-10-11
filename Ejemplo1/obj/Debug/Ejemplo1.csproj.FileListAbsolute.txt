@@ -1,7 +1,0 @@
-C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IICE\DyV\EjemplosDyV\Ejemplo1\bin\Debug\Ejemplo1.exe.config
-C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IICE\DyV\EjemplosDyV\Ejemplo1\bin\Debug\Ejemplo1.exe
-C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IICE\DyV\EjemplosDyV\Ejemplo1\bin\Debug\Ejemplo1.pdb
-C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IICE\DyV\EjemplosDyV\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
-C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IICE\DyV\EjemplosDyV\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
-C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IICE\DyV\EjemplosDyV\Ejemplo1\obj\Debug\Ejemplo1.exe
-C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IICE\DyV\EjemplosDyV\Ejemplo1\obj\Debug\Ejemplo1.pdb
