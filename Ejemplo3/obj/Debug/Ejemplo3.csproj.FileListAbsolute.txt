@@ -1,0 +1,14 @@
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IICE\DyV\EjemplosDyV\Ejemplo3\bin\Debug\Ejemplo3.exe.config
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IICE\DyV\EjemplosDyV\Ejemplo3\bin\Debug\Ejemplo3.exe
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IICE\DyV\EjemplosDyV\Ejemplo3\bin\Debug\Ejemplo3.pdb
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IICE\DyV\EjemplosDyV\Ejemplo3\obj\Debug\Ejemplo3.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IICE\DyV\EjemplosDyV\Ejemplo3\obj\Debug\Ejemplo3.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IICE\DyV\EjemplosDyV\Ejemplo3\obj\Debug\Ejemplo3.exe
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IICE\DyV\EjemplosDyV\Ejemplo3\obj\Debug\Ejemplo3.pdb
+C:\Users\almua\OneDrive\Desktop\Ejemplo3\bin\Debug\Ejemplo3.exe.config
+C:\Users\almua\OneDrive\Desktop\Ejemplo3\bin\Debug\Ejemplo3.exe
+C:\Users\almua\OneDrive\Desktop\Ejemplo3\bin\Debug\Ejemplo3.pdb
+C:\Users\almua\OneDrive\Desktop\Ejemplo3\obj\Debug\Ejemplo3.csproj.AssemblyReference.cache
+C:\Users\almua\OneDrive\Desktop\Ejemplo3\obj\Debug\Ejemplo3.csproj.CoreCompileInputs.cache
+C:\Users\almua\OneDrive\Desktop\Ejemplo3\obj\Debug\Ejemplo3.exe
+C:\Users\almua\OneDrive\Desktop\Ejemplo3\obj\Debug\Ejemplo3.pdb
